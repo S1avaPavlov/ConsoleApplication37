@@ -3,5 +3,6 @@
 int main()
 {
     std::cout << "Hello World!\n";
-    int a = 2 + 2;
+    int number = 2 * 2;
+    cout<<number<<endl;
 }
